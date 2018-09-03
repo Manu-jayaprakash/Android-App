@@ -4,4 +4,4 @@ My First Project in Android.
  
  mindreader.apk - new version(compactable in all devices)
  
- app-debug - older version
+ app-debug.apk - older version
